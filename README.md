@@ -1,4 +1,4 @@
-# Livro de Receitas :woman_cook:
+# Livro de Receitas  :woman_cook:
 
 Olá! Bem vindo ao meu livro de receitas! :wave:
 
@@ -8,6 +8,4 @@ Olá! Bem vindo ao meu livro de receitas! :wave:
 - Pastel de Frango com Bacon
 - Omelete de queijo e Frango
 - Pavê
-
-
-
+- Bolo de Cenoura
