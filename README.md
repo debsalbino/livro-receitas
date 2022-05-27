@@ -7,6 +7,7 @@ Olá! Bem vindo ao meu livro de receitas! :wave:
 - Torta de Frango
 - Pastel de Frango com Bacon
 - Omelete de queijo e Frango
+- Pavê
 
 
 
